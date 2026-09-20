@@ -1,0 +1,6 @@
+streamlit>=1.38
+google-genai>=1.0.0
+chromadb>=0.5.5
+python-dotenv>=1.0.1
+pypdf>=4.3.1
+python-pptx>=1.0.2
